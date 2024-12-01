@@ -1,0 +1,2 @@
+# plugins
+repository kodi
